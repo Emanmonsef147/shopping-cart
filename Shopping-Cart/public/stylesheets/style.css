@@ -1,0 +1,35 @@
+
+.card img{
+  max-width: 150px;
+  max-height: 250px;
+  padding-top: 5px;
+}
+
+.card .card-title{
+  font-size: 20px;
+}
+.card .card-text{
+  font-size: 15px;
+}
+
+.card-body a{
+  float: right;
+  padding:13px;
+}
+
+.price{
+  font-weight: bold;
+  font-size: 20px;
+  float: left;
+  
+  padding: 15px;
+}
+
+.row{
+  padding-top: 20px;
+}
+
+.form-group{
+  padding-top: 20px;
+}
+
